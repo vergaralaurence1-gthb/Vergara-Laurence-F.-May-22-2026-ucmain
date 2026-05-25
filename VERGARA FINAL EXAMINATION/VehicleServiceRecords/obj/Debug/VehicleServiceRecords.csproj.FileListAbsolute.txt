@@ -1,5 +1,0 @@
-Z:\II223\HANGAD, Gabriel M\Finals\FINAL EXAMINATION\VehicleServiceRecords\obj\Debug\VehicleServiceRecords.exe
-Z:\II223\HANGAD, Gabriel M\Finals\FINAL EXAMINATION\VehicleServiceRecords\obj\Debug\VehicleServiceRecords.pdb
-Z:\II223\HANGAD, Gabriel M\Finals\FINAL EXAMINATION\VehicleServiceRecords\bin\Debug\VehicleServiceRecords.exe
-Z:\II223\HANGAD, Gabriel M\Finals\FINAL EXAMINATION\VehicleServiceRecords\bin\Debug\VehicleServiceRecords.pdb
-Z:\II223\HANGAD, Gabriel M\Finals\FINAL EXAMINATION\VehicleServiceRecords\obj\Debug\VehicleServiceRecords.csprojResolveAssemblyReference.cache
