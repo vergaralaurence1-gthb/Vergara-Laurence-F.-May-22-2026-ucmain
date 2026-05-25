@@ -1,0 +1,22 @@
+2026-05-24 02:36:33 | APP_START | Application started successfully
+2026-05-24 02:44:02 | APP_START | Application started successfully
+2026-05-24 02:44:57 | APP_EXIT | Application closed
+2026-05-24 02:45:20 | APP_START | Application started successfully
+2026-05-24 02:46:21 | APP_EXIT | Application closed
+2026-05-24 02:46:42 | APP_START | Application started successfully
+2026-05-24 02:47:10 | APP_EXIT | Application closed
+2026-05-24 02:48:15 | APP_START | Application started successfully
+2026-05-24 03:18:33 | APP_EXIT | Application closed
+2026-05-24 03:19:08 | APP_START | Library Loans System started
+2026-05-24 03:21:49 | APP_START | Library Loans System started
+2026-05-24 03:32:16 | APP_START | Library Loans System started
+2026-05-24 03:35:38 | APP_START | Library Loans System started
+2026-05-24 03:36:42 | MEMBER_CREATED | Created new member ID: MEM-001, Name: Lebron James
+2026-05-24 03:40:36 | ADD | Added loan ID: LOAN_639151908367408114_6963, Member: Lebron James, Book: Basketball Guides pro max
+2026-05-24 03:42:17 | MEMBER_CREATED | Created new member ID: MEM-002, Name: Laurence Vergara
+2026-05-24 03:43:08 | ADD | Added loan ID: LOAN_639151909881851920_8927, Member: Laurence Vergara, Book: Appdevs22 guide
+2026-05-24 03:45:45 | ADD | Added loan ID: LOAN_639151911456681189_4819, Member: Laurence Vergara, Book: Java pro max
+2026-05-24 03:46:17 | MEMBER_CREATED | Created new member ID: MEM-003, Name: Jose Rizal
+2026-05-24 03:46:50 | ADD | Added loan ID: LOAN_639151912106379383_7852, Member: Jose Rizal, Book: History of PH
+2026-05-24 03:47:34 | VIEW | Viewed 1 loans
+2026-05-24 03:50:39 | APP_EXIT | Application closed
